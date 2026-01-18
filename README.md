@@ -29,5 +29,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-![Snake animation](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/<Kevin-47>/<Kevin-47>/blob/output/github-contribution-grid-snake-dark.svg)
 
