@@ -26,7 +26,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kevin-47&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-47&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-profile-trophy.vercel.app/?username=Kevin-47&theme=tokyonight&no-frame=true&row=1&column=7)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Kevin-47&theme=tokyo-night)
+
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![Snake animation](https://raw.githubusercontent.com/Kevin-47/Kevin-47/output/github-contribution-grid-snake-dark.svg)
 
 
 
