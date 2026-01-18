@@ -31,7 +31,6 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Kevin-47&theme=tokyo-night)
 
 
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![Snake animation](https://raw.githubusercontent.com/Kevin-47/Kevin-47/output/github-contribution-grid-snake-dark.svg)
